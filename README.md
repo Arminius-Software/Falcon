@@ -2,7 +2,8 @@
 
 Falcon ist eine Lernsoftware, die dabei helfen soll, Schülern neuronale Netze näherzubringen. Dabei lernen Raumschiffe per Reinforcement Learning, Asteroiden auszuweichen. Die zugrunde liegenden neuronalen Netze der Agenten können dabei über die verschiedenen Generationen hinweg exploriert werden. Falcon ist eine Open-Source-Software, welche für jegliche Lehrveranstaltung kostenfrei eingesetzt werden kann. In dem Ordner „Folien“ finden Sie zwei Beispielfoliensätze zu Seminaren über KI/neuronale Netze, an denen Sie sich orientieren können.
 
-![Falcon](https://github.com/Arminius-Software/Falcon/tree/main/ReadMEImage/Image0.png?raw=true)
+
+![Image0](https://github.com/Arminius-Software/Falcon/assets/75044824/3796d92b-9f94-4e4c-8690-1cdb699300cf)
 
 
 ## Installation:
