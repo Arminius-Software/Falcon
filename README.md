@@ -9,7 +9,7 @@ Falcon ist eine Lernsoftware, die dabei helfen soll, Schülern neuronale Netze n
 ## Installation:
 
 - Falcon nutzt Python, daher muss eine Version der Programmiersprache auf dem Gerät installiert sein (Falcon wurde mit Python 3.10 entwickelt).
-- Um die benötigten Bibliotheken auf Ihrem Computer zu installieren, genügt es, die `install.py` einmalig auszuführen.
+- Um die benötigten Bibliotheken auf Ihrem Computer zu installieren, genügt es, die `install.py`-Datei einmalig auszuführen.
 - Um nun die Anwendung selbst zu starten, genügt es, die `main.py`-Datei zu starten.
 
 Bei Rückfragen oder Problemen können Sie gerne jederzeit ein Issue auf GitHub eröffnen.
